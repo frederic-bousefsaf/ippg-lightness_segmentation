@@ -26,7 +26,7 @@ The codes were tested with Python 3.5/3.6. Different packages must be installed 
 - `pip install scipy`
 - `pip install cmake`
 - `pip install dlib`
-- pip install opencv-python`
+- `pip install opencv-python`
 - `pip install matplotlib`
 
 
