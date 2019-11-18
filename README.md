@@ -31,7 +31,7 @@ The codes were tested with Python 3.5/3.6. Different packages must be installed 
 
 
 ## Usage
-A test sample is available  [here](https://drive.google.com/open?id=17l_MJVqw4F9cQpcJ-_wFmFNr3bdZNtw9) (sample_front.zip). The folder contains the time vector along with uncompressed images. Please remove the file `time.txt` from the folder before testing. Upon execution of `ippg_lightness_segmentation.py`. The program first displays a GUI. The folder containing only the raw images can be selected. PPG signals with best signal-to-noise ratio is automatically displayed at the end of the procedure (see the example below).
+A test sample is available  [here](https://drive.google.com/open?id=17l_MJVqw4F9cQpcJ-_wFmFNr3bdZNtw9) (sample_front.zip). The folder contains the time vector along with uncompressed images. Please remove the file `times.txt` from the folder before testing. The program first displays a GUI upon execution of `ippg_lightness_segmentation.py`. The folder containing only the raw images can be selected. PPG signals with best signal-to-noise ratio is automatically displayed at the end of the procedure (see the example below).
 
 ![Alt text](illustrations/results.png?raw=true "Results computed from the sample data")
 
