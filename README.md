@@ -21,9 +21,7 @@ Please refer to the original publication to get all the details. The method auto
 
 
 ## Requirements
-The codes were tested with Python 3.5/3.6 and Tensorflow + Keras frameworks.
-
-Different packages must be installed to properly run the codes : 
+The codes were tested with Python 3.5/3.6. Different packages must be installed to properly run the codes : 
 - `pip install numpy`
 - `pip install scipy`
 - `pip install cmake`
@@ -37,4 +35,4 @@ A test sample is available  [here](https://drive.google.com/open?id=17l_MJVqw4F9
 
 ![Alt text](illustrations/results.png?raw=true "Results computed from the sample data")
 
-*Results computed from the sample data.*
+*Results computed from sample data.*
