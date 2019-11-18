@@ -8,7 +8,7 @@ This repository contains the source codes related to a method based on a prior s
 ## Reference
 If you find this code useful or use it in an academic or research project, please cite it as: 
 
-Frédéric Bousefsaf, Alain Pruski, Choubeila Maaoui, **Automatic selection of webcam photoplethysmographic pixels based on lightness criteria**, *Journal of Medical and Biological Engineering*, vol. 37, n° 3, pp. 374–385 (2017). [Link](https://www.researchgate.net/publication/308200884_Automatic_Selection_of_Webcam_Photoplethysmographic_Pixels_Based_on_Lightness_Criteria)
+Frédéric Bousefsaf, Choubeila Maaoui, Alain Pruski, **Automatic selection of webcam photoplethysmographic pixels based on lightness criteria**, *Journal of Medical and Biological Engineering*, vol. 37, n° 3, pp. 374–385 (2017). [Link](https://www.researchgate.net/publication/308200884_Automatic_Selection_of_Webcam_Photoplethysmographic_Pixels_Based_on_Lightness_Criteria)
 
 You can also visit my [website](https://sites.google.com/view/frederic-bousefsaf) for additional information.
 
